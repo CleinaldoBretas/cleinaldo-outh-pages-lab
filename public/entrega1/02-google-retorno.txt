@@ -1,1 +1,2 @@
 cleinaldo-outh-pages-lab.pages.dev
+https://cleinaldo-outh-pages-lab.pages.dev/ouath/callback/google
